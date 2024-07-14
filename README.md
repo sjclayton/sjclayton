@@ -1,5 +1,4 @@
 [![SJClayton's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjclayton&show_icons=true&theme=blueberry&border_color=b4befe)](https://github.com/anuraghazra/github-readme-stats)
-
 [![SJClayton's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjclayton&theme=blueberry&border_color=b4befe)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
