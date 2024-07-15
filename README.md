@@ -1,5 +1,5 @@
-[![SJClayton's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjclayton&show_icons=true&icon_color=cba6f7&bg_color=1e1e2e&title_color=b4befe&border_color=b4befe&text_color=89dceb)](https://github.com/anuraghazra/github-readme-stats)
-[![SJClayton's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjclayton&bg_color=1e1e2e&title_color=b4befe&border_color=b4befe&text_color=89dceb)](https://github.com/anuraghazra/github-readme-stats)
+[![SJClayton's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjclayton&show=prs_merged&show_icons=true&icon_color=cba6f7&bg_color=1e1e2e&title_color=b4befe&border_color=b4befe&text_color=89dceb)](https://github.com/anuraghazra/github-readme-stats)
+[![SJClayton's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjclayton&layout=donut&bg_color=1e1e2e&title_color=b4befe&border_color=b4befe&text_color=89dceb)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sjclayton/sjclayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
