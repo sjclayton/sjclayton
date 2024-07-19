@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/sjclayton" style="text-decoration:none;">
-  <img height="180em" width="440em" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=sjclayton&show=prs_merged&show_icons=true&icon_color=cba6f7&bg_color=1e1e2e&hide_title=true&hide_border=true&text_color=89dceb"/><img height="180em" width="360em" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjclayton&layout=compact&bg_color=1e1e2e&hide_title=true&hide_border=true&text_color=89dceb"/></a>
+  <img height="190em" width="467em" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=sjclayton&show=prs_merged&show_icons=true&icon_color=cba6f7&bg_color=1e1e2e&hide_title=true&hide_border=true&text_color=89dceb"/><img height="190em" width="360em" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjclayton&layout=compact&bg_color=1e1e2e&hide_title=true&hide_border=true&text_color=89dceb"/></a>
 </div>
 
 <!--
