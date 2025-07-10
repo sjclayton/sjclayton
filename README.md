@@ -7,7 +7,7 @@
 Hi!, I'm Shaun.
 
 - 🔭 I’m currently working on ... A simple CLI written in Go
-- 🌱 I’m currently learning ... Golang
+- 🌱 I’m currently learning ... Golang, SQL, UI/UX design and more!
 - 🤔 I’m curious about ... Zig, Rust
 - 👯 I’m looking to collaborate on ... Various projects
 - 👀 I'm interested in ... Linux, coding and technology in general
