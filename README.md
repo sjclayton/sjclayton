@@ -10,8 +10,8 @@ Hi!, I'm Shaun.
 - 🌱 I’m currently learning ... Golang
 - 🤔 I’m curious about ... Zig, Rust
 - 👯 I’m looking to collaborate on ... Various projects
-- 👀 I'm interested in: Linux, coding and technology in general
-- 🎸 I'm usually listening to ... Rock or metal (ask me about my favourite band)
+- 👀 I'm interested in ... Linux, coding and technology in general
+- 🎸 I'm usually listening to ... Rock or Metal (ask me about my favourite band)
 
 <!--
 **sjclayton/sjclayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
