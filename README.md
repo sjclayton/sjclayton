@@ -8,9 +8,11 @@ Hi!, I'm Shaun.
 
 - 🔭 I’m currently working on ... A simple CLI written in Go
 - 🌱 I’m currently learning ... Golang, SQL, Data Structures/Algorithms, UI/UX design and more!
-- 🤔 I’m curious about ... Zig, OCaml and Rust
+- 🤔 I’m curious about ... Zig, Nim, OCaml and Rust
 - 👯 I’m looking to collaborate on ... Various projects and ideas
-- 👀 I'm interested in ... Linux, coding, digital painting, AI and technology in general
+- 👀 I'm interested in ... Linux, coding, digital painting, and AI
+- ❤️ I'm passionate about ... Open-source, free-software and technology in general
+- 🥳 I'm really into ... Digital painting, music, audio, networking and perfecting my Neovim config 
 - 🎸 I'm usually listening to ... Rock or Metal (ask me about my favourite band)
 
 <!--
