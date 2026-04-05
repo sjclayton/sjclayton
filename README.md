@@ -1,4 +1,8 @@
-![Stats](./profile/stats.svg)![Top Languages](./profile/top-langs.svg)
+<div align="center">
+
+  <a href="https://github.com/sjclayton" style="text-decoration:none;">
+  <img height="190em" width="467em" alt="Stats" src="./profile/stats.svg"/><img height="190em" width="360em" alt="Top Languages" src="./profile/top-langs.svg"/></a>
+</div>
 
 Hi!, I'm Shaun.
 
