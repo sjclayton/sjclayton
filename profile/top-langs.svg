@@ -146,7 +146,7 @@
           data-testid="lang-progress"
           x="179.18"
           y="0"
-          width="32.24"
+          width="32.25"
           height="8"
           fill="#ffc200"
         />
@@ -154,7 +154,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="211.42000000000002"
+          x="211.43"
           y="0"
           width="25.17"
           height="8"
@@ -164,7 +164,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="236.59000000000003"
+          x="236.60000000000002"
           y="0"
           width="13.41"
           height="8"
@@ -198,7 +198,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#ffc200" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Nim 12.89%
+        Nim 12.90%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
