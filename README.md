@@ -6,13 +6,13 @@
 
 Hi!, I'm Shaun.
 
-- 🔭 I’m currently working on ... A simple CLI written in Go
-- 🌱 I’m currently learning ... Golang, SQL, Data Structures/Algorithms, UI/UX design and more!
-- 🤔 I’m curious about ... Gleam, Rust, Nim and Zig
+- 🔭 I’m currently working on ... An interactive video library application
+- 🌱 I’m currently learning ... Golang, Nim, SQL, data structures/algorithms, UI/UX and system design.
+- 🤔 I’m curious about ... Gleam, Rust and Zig
 - 👯 I’m looking to collaborate on ... Various projects and ideas
-- 👀 I'm interested in ... Linux, coding, and AI
+- 👀 I'm interested in ... Linux, coding, networking and AI
 - ❤️ I'm passionate about ... Open-source, free-software and technology in general
-- 🥳 I'm really into ... Digital painting, music, audio engineering, networking and perfecting my Neovim config 
+- 🥳 I'm really into ... Digital painting, music, audio engineering, and forever perfecting my Neovim config 
 - 🎸 I'm usually listening to ... Rock or Metal (ask me about my favourite band)
 
 <!--
