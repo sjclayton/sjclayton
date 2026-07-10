@@ -6,9 +6,9 @@
 
 Hi!, I'm Shaun.
 
-- 🔭 I’m currently working on ... An interactive video library application
+- 🔭 I’m currently working on ... An interactive video library management application
 - 🌱 I’m currently learning ... Golang, Nim, SQL, data structures/algorithms, UI/UX and system design.
-- 🤔 I’m curious about ... Gleam, Rust and Zig
+- 🤔 I’m curious about ... Odin, Rust and Gleam
 - 👯 I’m looking to collaborate on ... Various projects and ideas
 - 👀 I'm interested in ... Linux, coding, networking and AI
 - ❤️ I'm passionate about ... Open-source, free-software and technology in general
