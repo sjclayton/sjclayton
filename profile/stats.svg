@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Shaun Clayton's GitHub Stats, Rank: B+</title>
+        <title id="titleId">Shaun Clayton&#39;s GitHub Stats, Rank: B+</title>
         <desc id="descId">Total Stars Earned: 36, Total Commits  (last year) : 271, Total PRs: 48, Total Issues: 107, Contributed to (last year): 14</desc>
         <style>
           .header {
